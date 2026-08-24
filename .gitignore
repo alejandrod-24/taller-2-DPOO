@@ -1,0 +1,15 @@
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+.classpath.bak
+
+# macOS
+.DS_Store
+
+# Java
+*.class
+*.jar
